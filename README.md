@@ -2,6 +2,8 @@
 
 ### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
 
+###  [我刚做的迁移学习中文简介ppt](http://jd92.wang/assets/files/l08_tl_zh.pdf)
+
 #### *关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
 最新增加的简介：[什么是行为感知？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
 
