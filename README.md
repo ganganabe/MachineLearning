@@ -1,21 +1,23 @@
 ##一些机器学习的资源
 
-####*关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
+### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
+
+#### *关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
 最新增加的简介：[什么是行为感知？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
 
-####1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
+#### 1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
 
-####2.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
+#### 2.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
 
-####3.[我做的人机交互简介](https://github.com/jindongwang/HCI)
+#### 3.[我做的人机交互简介](https://github.com/jindongwang/HCI)
 
-####4.[我做的迁移学习学术报告](https://github.com/jindongwang/MachineLearning/blob/master/TransferLearning.pdf)
+#### 4.[我做的迁移学习学术报告](https://github.com/jindongwang/MachineLearning/blob/master/TransferLearning.pdf)
 
-####6.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
+#### 6.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
 
-####7.[迁移学习简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)
+#### 7.[迁移学习简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)
 
-###1.关于技术本身的情况
+### 1.关于技术本身的情况
 
 1.1 Machine Learning的一些理解
 * 机器学习的概念自不用多说。这里我仅提到一点，机器学习在学科分类上是属于实现人工智能的一种重要方法，注定它和AI是不可分的。其实，传统的AI一直都侧重解决三个步骤的问题：知识的表示、知识的获取和知识的学习。其中，机器学习涵盖了知识的获取和学习两大部分，是AI的核心部分。其实说白了，ML解决的就是怎么从已知推断未知，它走的是归纳（induction）这个自上而下的过程，AI中还有一个相对立的知识体系叫做演绎（deduction），这个主要是自动推理的范畴，和机器学习基本关系不大，是较独立的一支。
