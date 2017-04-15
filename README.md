@@ -19,6 +19,8 @@
 
 #### 7.[迁移学习简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)
 
+#### 8. [职场机器学习入门](https://github.com/jindongwang/MachineLearning/blob/master/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
+
 1.关于技术本身的情况
 
 1.1 Machine Learning的一些理解
