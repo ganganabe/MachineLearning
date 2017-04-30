@@ -1,11 +1,17 @@
 ## 一些机器学习的资源
 
-### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
-
-###  [我刚做的迁移学习中文简介ppt](http://jd92.wang/assets/files/l08_tl_zh.pdf)
+#### *有关迁移学习的各种资料我已整理到了新的目录*，请看[这里](https://github.com/jindongwang/transferlearning)
 
 #### *关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
 最新增加的简介：[什么是行为感知？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
+
+
+- - -
+
+**这个目录以后只放一些跟通用机器学习相关的资料，我把行为识别和迁移学习的东西都移动到新的repo里了。**
+
+### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
+
 
 #### 1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
 
@@ -13,13 +19,9 @@
 
 #### 3.[我做的人机交互简介](https://github.com/jindongwang/HCI)
 
-#### 4.[我做的迁移学习学术报告](https://github.com/jindongwang/MachineLearning/blob/master/TransferLearning.pdf)
+#### 4.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
 
-#### 6.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
-
-#### 7.[迁移学习简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)
-
-#### 8. [职场机器学习入门](https://github.com/jindongwang/MachineLearning/blob/master/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
+#### 5. [职场机器学习入门](https://github.com/jindongwang/MachineLearning/blob/master/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
 
 1.关于技术本身的情况
 
