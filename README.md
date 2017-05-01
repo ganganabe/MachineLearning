@@ -1,14 +1,12 @@
 ## 一些机器学习的资源
 
-#### *有关迁移学习的各种资料我已整理到了新的目录*，请看[这里](https://github.com/jindongwang/transferlearning)
+关于迁移学习和行为识别的资料，请见我的下面两个仓库：
 
-#### *关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
-最新增加的简介：[什么是行为感知？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
+- [行为识别](https://github.com/jindongwang/activityrecognition)
+- [迁移学习](https://github.com/jindongwang/transferlearning)
 
 
 - - -
-
-**这个目录以后只放一些跟通用机器学习相关的资料，我把行为识别和迁移学习的东西都移动到新的repo里了。**
 
 ### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
 
