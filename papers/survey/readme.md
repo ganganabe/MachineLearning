@@ -10,3 +10,7 @@
 - [半监督学习Semi-supervised learning literature survey_Zhu_2005.pdf](https://github.com/jindongwang/MachineLearning/blob/master/papers/survey/Semi-supervised%20learning%20literature%20survey_Zhu_2005.pdf)
 - [稀疏子空间聚类Sparse Subspace Clustering_Elhamifar_Vidal_2013.pdf](https://github.com/jindongwang/MachineLearning/blob/master/papers/survey/Sparse%20Subspace%20Clustering_Elhamifar_Vidal_2013.pdf)
 - [聚类算法Survey of Clustering Algorithms_Xu_WunschII_2005.pdf](https://github.com/jindongwang/MachineLearning/blob/master/papers/survey/Survey%20of%20Clustering%20Algorithms_Xu_WunschII_2005.pdf)
+- [深度学习各种综述](https://github.com/jindongwang/MachineLearning/tree/master/papers/survey/deep%20learning)
+	- 最著名的综述：深度学习三巨头在2015年Nature上的[Deep learning](https://github.com/jindongwang/MachineLearning/blob/master/papers/survey/deep%20learning/LeCun%20et%20al_Deep%20learning_2015.pdf)
+	- 比较完整的综述：[Deep learning in neural networks - an overview](https://github.com/jindongwang/MachineLearning/blob/master/papers/survey/deep%20learning/Deep%20learning%20in%20neural%20networks%20-%20an%20overview.%20AMiner_.pdf)
+	- 此外，还有一些中英文的综述，都在上面目录里。
