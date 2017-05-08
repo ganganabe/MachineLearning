@@ -8,6 +8,8 @@
 
 - - -
 
+### [综述文章汇总](https://github.com/jindongwang/MachineLearning/tree/master/papers/survey)
+
 ### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
 
 
