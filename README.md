@@ -5,7 +5,9 @@
 - [行为识别](https://github.com/jindongwang/activityrecognition)
 - [迁移学习](https://github.com/jindongwang/transferlearning)
  
+ 
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者！**
+
 - - -
 
 ### [综述文章汇总](https://github.com/jindongwang/MachineLearning/tree/master/papers/survey)
@@ -30,9 +32,9 @@
 * 机器学习的概念自不用多说。这里我仅提到一点，机器学习在学科分类上是属于实现人工智能的一种重要方法，注定它和AI是不可分的。其实，传统的AI一直都侧重解决三个步骤的问题：知识的表示、知识的获取和知识的学习。其中，机器学习涵盖了知识的获取和学习两大部分，是AI的核心部分。其实说白了，ML解决的就是怎么从已知推断未知，它走的是归纳（induction）这个自上而下的过程，AI中还有一个相对立的知识体系叫做演绎（deduction），这个主要是自动推理的范畴，和机器学习基本关系不大，是较独立的一支。
 
 1.2 一些课程资料
-* 课程1：很有名的课程，你肯定知道，Andrew Ng在Stanford开的课，地址：[吴恩达的机器学习公开课](https://www.coursera.org/learn/machine-learning)。该课程的优点：简单易懂，适用于初学者，特别适合入门及数学能力一般的，不难。缺点也很明显，基本都是点到为止，讲解不够深入，只适用于初学。我目前已看完。
+* 课程1：很有名的课程，你肯定知道，Andrew Ng在Stanford开的课，地址：[吴恩达的机器学习公开课](https://www.coursera.org/learn/machine-learning)。该课程的优点：简单易懂，适用于初学者，特别适合入门及数学能力一般的，不难。缺点也很明显，基本都是点到为止，讲解不够深入，只适用于初学。
 
-* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他的课有两门，分别是[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。我目前在听他的机器学习基石，还没有听完。
+* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他的课有两门，分别是[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。
 
 * 课程3：Coursera上非常著名的[神经网络](https://www.coursera.org/learn/neural-networks/home/welcome)课，讲师是多伦多大学的Geoffrey Hinton，深度学习的大牛!一定不要错过！
 
