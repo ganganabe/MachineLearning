@@ -4,8 +4,8 @@
 
 - [行为识别](https://github.com/jindongwang/activityrecognition)
 - [迁移学习](https://github.com/jindongwang/transferlearning)
-
-
+ 
+**致力于分享最新最全面的机器学习资料，欢迎你成为贡献者！**
 - - -
 
 ### [综述文章汇总](https://github.com/jindongwang/MachineLearning/tree/master/papers/survey)
