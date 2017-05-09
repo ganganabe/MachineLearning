@@ -10,8 +10,7 @@
 
 ### [综述文章汇总](https://github.com/jindongwang/MachineLearning/tree/master/papers/survey)
 
-### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
-
+#### [近200篇机器学习资料汇总！](https://zhuanlan.zhihu.com/p/26136757)
 
 #### 1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
 
@@ -22,6 +21,8 @@
 #### 4.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
 
 #### 5. [职场机器学习入门](https://github.com/jindongwang/MachineLearning/blob/master/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
+
+- - -
 
 1.关于技术本身的情况
 
