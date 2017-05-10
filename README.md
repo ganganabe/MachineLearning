@@ -1,4 +1,6 @@
 ## 一些机器学习的资源
+ 
+#本仓库已与我们创建的新仓库合并，请移步：https://github.com/allmachinelearning/MachineLearning
 
 关于迁移学习和行为识别的资料，请见我的下面两个仓库：
 
